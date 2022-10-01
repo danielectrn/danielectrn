@@ -18,7 +18,7 @@ Happy learning, everyone!
 Italy, 2022/09/03
 
 ## Some stats
-[![Daniele's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieleln&theme=default&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniele's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieleln&theme=dark&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieleln&layout=compact&theme=dark&langs_count=10&hide=makefile&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
