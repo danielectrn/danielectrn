@@ -16,3 +16,7 @@ I'm just a simple user who loves nosing around and trying to understand how thin
 Happy learning, everyone!
 <br/>
 Italy, 2022/09/03
+
+## Some stats
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danieleln&layout=compact&theme=vue-dark&langs_count=10&hide=makefile)](https://github.com/SirCharlieMars/github-readme-stats)
+
